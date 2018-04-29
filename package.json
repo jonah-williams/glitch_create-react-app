@@ -5,12 +5,10 @@
   "dependencies": {
     "create-react-app": "^1.5.2",
     "react": "^16.3.2",
-    "react-dom": "^16.3.2"
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
   },
-  "proxy": "https://glitch-create-react-app.glitch.me/",
-  "devDependencies": {
-    "react-scripts": "0.9.5"
-  },
+  "proxy": "https://glitch-create-react-redux-app.glitch.me",
   "engines": {
     "node": "8.x"
   },
