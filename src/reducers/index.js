@@ -1,7 +1,6 @@
 import { combineReducers } from 'redux'
-
-// import customReducer from './customReducer'
+import placeholderReducer from './Placeholder'
 
 export default combineReducers({
-  // customReducer,
+  placeholder: placeholderReducer
 })

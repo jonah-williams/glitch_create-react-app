@@ -10,6 +10,10 @@
     "redux": "^4.0.0",
     "react-redux": "^5.0.7"
   },
+  "devDependencies": {
+    "enzyme-adapter-react-16": "^1.1.1",
+    "enzyme": "^3.3.0"
+  },
   "proxy": "https://glitch-create-react-redux-app.glitch.me",
   "engines": {
     "node": "8.x"
