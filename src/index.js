@@ -7,7 +7,6 @@ import App from './components/App'
 import './index.css';
 
 const store = createStore(rootReducer)
-console.log(store.getState())
 
 render(
   <Provider store={store}>
